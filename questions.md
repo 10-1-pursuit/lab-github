@@ -27,5 +27,5 @@ Ada Lovelace, daughter of the famous poet Lord Byron, is considered the world's 
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing, who is often considered the father of modern computer science.
 ```
