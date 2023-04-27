@@ -12,6 +12,7 @@ JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2
 What does "ES6" stand for?
 
 ```
+ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard. This article describes Javascript ES6, some of the important new features introduced to the Javascript language, and the legacy of Javascript ES6 since its adoption.
 
 ```
 
