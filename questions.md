@@ -21,7 +21,7 @@ Google
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace. A British woman mathematician from the 19th century is widely recognized as the first computer programmer
 ```
 
 Who is the "Turing machine" named after?
