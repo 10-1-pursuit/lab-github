@@ -15,6 +15,7 @@ ECMAScript 6
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
+'Don't be evil' had been Google's unofficial motto since 2000, when it first appeared in the corporate code of conduct.
 
 ```
 
