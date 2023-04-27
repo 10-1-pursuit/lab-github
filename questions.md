@@ -28,5 +28,5 @@ ADA LOVE LACE
 Who is the "Turing machine" named after?
 
 ```
-
+ALAN TURING
 ```
