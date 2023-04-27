@@ -21,7 +21,7 @@ What company famously used the phrase "Don't be evil" in their code of conduct?
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace, daughter of the famous poet Lord Byron, is considered the world's first computer programmer.
 ```
 
 Who is the "Turing machine" named after?
