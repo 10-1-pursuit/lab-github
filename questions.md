@@ -35,5 +35,7 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
+Alan Turing
 
+-- https://en.wikipedia.org/wiki/Turing_machine#:~:text=A%20Turing%20machine%20is%20a,of%20implementing%20any%20computer%20algorithm.
 ```
