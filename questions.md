@@ -22,7 +22,7 @@ GOOGLE
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+ADA LOVE LACE
 ```
 
 Who is the "Turing machine" named after?
