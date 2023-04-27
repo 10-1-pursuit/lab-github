@@ -27,5 +27,5 @@ Ada Lovelace. A British woman mathematician from the 19th century is widely reco
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
