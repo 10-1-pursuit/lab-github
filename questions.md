@@ -26,5 +26,6 @@ Ada Lovelace was a British mathematician commonly referred to as “the first co
 Who is the "Turing machine" named after?
 
 ```
-
+The Turing Scheme was named in honour of the renowned scientist Alan Turing.
+Alan Turing was a pioneering and iconic British mathematician and computer scientist of global renown.
 ```
