@@ -20,7 +20,7 @@ Don't be evil' had been Google's unofficial motto since 2000, when it first appe
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace was a British mathematician commonly referred to as “the first computer programmer” for writing an algorithm for a computing machine in the mid-1800s.
 ```
 
 Who is the "Turing machine" named after?
