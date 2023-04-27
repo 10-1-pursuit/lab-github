@@ -27,5 +27,5 @@ British woman mathematician from the 19th century is widely recognized as the fi
 Who is the "Turing machine" named after?
 
 ```
-
+Often considered the father of modern computer science, Alan Turing was famous for his work developing the first modern computers, decoding the encryption of German Enigma machines during the second world war, and detailing a procedure known as the Turing Test, forming the basis for artificial intelligence.
 ```
