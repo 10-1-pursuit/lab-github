@@ -11,7 +11,9 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
+ES6 stands for ECMAScript 6
 
+-- https://www.w3schools.com/react/react_es6.asp#:~:text=What%20is%20ES6%3F,also%20known%20as%20ECMAScript%202015.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
