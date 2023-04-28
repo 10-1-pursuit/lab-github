@@ -27,5 +27,5 @@ ada lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+alan turing
 ```
